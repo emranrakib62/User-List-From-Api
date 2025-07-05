@@ -7,7 +7,7 @@
     android:layout_margin="8dp"
     card_view:cardCornerRadius="12dp"
     card_view:cardElevation="6dp"
-    card_view:cardBackgroundColor="#FFFFFF">
+    card_view:cardBackgroundColor="#D971E483">
 
     <LinearLayout
         android:orientation="vertical"
